@@ -51,3 +51,5 @@ function addCPSAsync(x, y, callback) {
   );
 }
 ```
+
+[Continuation Passing Style](https://en.wikipedia.org/wiki/Continuation-passing_style)
