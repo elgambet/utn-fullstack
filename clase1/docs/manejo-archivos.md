@@ -58,3 +58,4 @@ fs.readFile('../data/people.json', (err, data) => {
     return console.log('No se pudo leer el archivo ../data/people.json');
   }
 });
+```
