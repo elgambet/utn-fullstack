@@ -12,6 +12,12 @@ En los últimos años, la empresa Facebook viene revolucionando el modo en que s
 
 ## [Modalidad](sites/modalidad.md)
 
+## Clases
+
+### [Clase 1](clase1/README.md)
+
+### [Clase 2](clase2/README.md)
+
 ## Contacto
 
 ### Ainú Chambeaud
@@ -39,7 +45,3 @@ En los últimos años, la empresa Facebook viene revolucionando el modo en que s
 Se dispone de un canal de comunicación en slack para discutir entre todos las problématicas que vayan surgiendo.
 
 [SLACK](https://fullstack-utn.slack.com/)
-
-## Clases
-
-## [Clase 1](clase1/README.md)
