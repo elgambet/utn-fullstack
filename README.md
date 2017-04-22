@@ -27,11 +27,11 @@ En los últimos años, la empresa Facebook viene revolucionando el modo en que s
 ### Pablo Gambetta
 
 <a href="https://github.com/elgambet">
-  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt=" github pgambetta" style="width: 50px;"/>
+  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt=" github pgambetta" style="width: 50px;" width="50px"/>
 </a>
 
 <a href="https://twitter.com/soyelgambet">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/100px-Twitter_bird_logo_2012.svg.png" alt="twitter pgambetta" style="width: 50px;" width/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/100px-Twitter_bird_logo_2012.svg.png" alt="twitter pgambetta" style="width: 50px;" width="50px"/>
 </a>
 
 ## Slack del curso
