@@ -4,4 +4,4 @@
 
 [Promises](docs/promises.md)
 
-[Manejo de archivos](clase1/docs/manejo-archivos.md)
+[Manejo de archivos](docs/manejo-archivos.md)
