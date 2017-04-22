@@ -2,15 +2,15 @@
 
 En los últimos años, la empresa Facebook viene revolucionando el modo en que se hacen aplicaciones liberando como tecnologías de código abierto, muchas de las herramientas que usan en sus aplicaciones web y mobile a gran escala (Instagram, Whatsapp, Facebook, entre otras). React y GraphQL son ejemplos de dos tecnologías (frontend y backend respectivamente) desarrolladas por Facebook, que tuvieron un gran impacto en la industria de software moderna. Durante el curso se explorarán estas herramientas y su relación con el ecosistema de node.js, que es al día de hoy una de las tecnologías preferidas por los programadores para hacer aplicaciones web. 
 
-## [Detalles del curso](sites/detalles.md)
+### [Detalles del curso](sites/detalles.md)
 
-## [Instalaciones](sites/instalaciones.md)
+### [Instalaciones](sites/instalaciones.md)
 
-## [Certificados](sites/certificados.md)
+### [Certificados](sites/certificados.md)
 
-## [Ubicación](sites/ubicacion.md)
+### [Ubicación](sites/ubicacion.md)
 
-## [Modalidad](sites/modalidad.md)
+### [Modalidad](sites/modalidad.md)
 
 ## Clases
 
