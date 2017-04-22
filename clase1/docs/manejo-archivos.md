@@ -53,7 +53,7 @@ Como el objecto de opciones es opcional sólo le pasamos file, data, y callback;
 
 ```javascript
 // Leer el archivo de people.json
-fs.readFile('../data/people.json', (err, data) => {
+fs.readFile('../data/people.json', 'utf-8', (err, data) => {
   if (err) {
     return console.log('No se pudo leer el archivo ../data/people.json');
   }
