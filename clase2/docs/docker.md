@@ -25,7 +25,7 @@ Antes de poder entender cómo funciona Docker debemos entender qué es una virtu
 
 #### Diferencia entre una VM y un contenedor
 
-<img src="./data/containers-versus-virtual-machines-docker-inc-rightscale.jpg" width="250px" style="width: 500px;"/>
+<img src="../data/containers-versus-virtual-machines-docker-inc-rightscale.jpg" width="250px" style="width: 500px;"/>
 
 Como pueden ver en la imagen, la principal diferencia entre una VM y un contenedor es que una VM no sólo necesita una copia entera de un sistema operativo, sino que también necesita una copia virtual del hardware y eso conlleva mucho procesamiento y espacio.
 
@@ -63,7 +63,7 @@ Es el sistema operativo en el cual se montan los contenedores, puede ser nuestra
 
 Las imágenes de docker pueden entenderse como una receta o si sos un programador orientado a objetos (como una clase). En sí, las imágenes son referencias a una lista de capas que representan los cambios del sistema de archivos. Estas capas pueden ser apiladas una arriba de otra partiendo siempre de un sistema de archivos principal.
 
-<img src="./data/image-layers.jpg" width="250px" style="width: 500px;"/>
+<img src="../data/image-layers.jpg" width="250px" style="width: 500px;"/>
 
 En este ejemplo, la imagen de docker está basada en un sistema de archivos (ubuntu 15.04) a partir de ahí se fueron realizando cambios (que podrían ser):
 
