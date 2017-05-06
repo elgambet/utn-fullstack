@@ -5,8 +5,7 @@
     "author": "J.R.R Tolkien",
     "image": "https://images-na.ssl-images-amazon.com/images/I/519V0IlKZpL._AC_US436_QL65_.jpg",
     "categories": [
-      "5",
-      "7"
+      "c8f5d5c9-b750-4ee2-a209-e0d4710c1976"
     ]
   },
   {
@@ -667,15 +666,6 @@
     "title": "(b) You Don't Know JS: Types & Grammar",
     "author": "Kyle Simpson",
     "image": "https://images-na.ssl-images-amazon.com/images/I/41cRygYTmeL._AC_US436_FMwebp_QL65_.jpg",
-    "categories": [
-      "8"
-    ]
-  },
-  {
-    "id": "b25",
-    "title": "(b) You Don't Know JS: Scope & Closures",
-    "author": "Nick Morgan",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/51SqAlfxJiL._AC_US436_FMwebp_QL65_.jpg",
     "categories": [
       "8"
     ]

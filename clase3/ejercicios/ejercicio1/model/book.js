@@ -1,7 +1,16 @@
-const api = require('./api');
+const api = require("./api");
 
-exports.getAll = () => api.fetchBooks();
+exports.getAll = query => api.fetchBooks(query);
 
-exports.getById = id => api.fetchBooks(books => books.find(book => book.id == id));
+exports.getById = id => api.getBookById(id);
 
-exports.getByCategoryId = id => api.fetchBooks().then(books => books.filter(book => book.categories.includes(id)));
+exports.getByCategoryId = id =>
+  api
+    .fetchBooks()
+    .then(books => books.filter(book => book.categories.includes(id)));
+
+exports.add = book => api.addBook(book);
+
+exports.update = book => api.updateBook(book);
+
+exports.remove = id => api.removeBook(id);
